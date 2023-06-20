@@ -4,12 +4,12 @@
     background-color: skyblue;
   }
 
- p:first-child {
+ .first-para {
     background-color: black;
     color: white;
   }
 
- p:last-child {
+ .last-para {
     color: red;
   }
 
