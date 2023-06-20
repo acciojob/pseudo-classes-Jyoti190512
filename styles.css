@@ -12,9 +12,6 @@
  .last-para {
     color: red;
   }
-ul{
-	width:55%;
-}
 
   ul li:nth-child(1) {
     background-color: white;
